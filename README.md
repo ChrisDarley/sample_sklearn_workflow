@@ -7,7 +7,7 @@ I didn't do much dataset exploration about the relationships between variables b
 
 Each of the jupyter files are exploring one facet of the dataset.  In the order I made them:
 1) initial_exploration.ipynb
-2) testing_standardization.ipynb
+2) scaling_experiment.ipynb
 3) categorical_feature_selection.ipynb
 4) num_dim_reduction.ipynb
 5) predict.ipynb
